@@ -57,4 +57,16 @@ Feel free to fork the repository, open issues, and submit pull requests. Contrib
 
 ## 🌐 Live Demo
 
-Check out the live version on [Vercel](https://your-project.vercel.app).
+Check out the live version on [Vercel]
+
+## Milestone-1
+(milestone-1-rho.vercel.app)
+
+## Milestone-3
+(https://milestone-3-ten-flame.vercel.app)
+
+## Milestone-4
+(https://milestone-4-seven-vert.vercel.app)
+
+# Milestone-5
+(milestone-5-pink-eight.vercel.app)
